@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name Luís Felipe and I'm Front-end and UX developer, from Brasília, Brazil</p>
+<p align="left">My name Luís Felipe and I’m passionate about transforming ideas into visually appealing, intuitive, and high-performance interfaces. I’m always exploring new technologies to achieve this perfect combination</p>
 
 ###
 
@@ -10,6 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Go<br>🎯 Goals: Be a reference in UX and Front-end development.<br>🎲 Fun fact: I love Kanye West.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Go<br>🎯 Goals: Be a reference in UX and Front-end development.<br>🎲 Fun fact: I love Kanye West.</br>📍 Location: Brasília, Brazil.</p>
 
 ###
+<a href="https://github.com/lfelipessilva/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lfelipessilva&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
+<a href="https://github.com/lfelipessilva/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lfelipessilva&theme=dracula" />
+</a>
