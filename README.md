@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Go<br>🎯 Goals: Be a reference in UX and Front-end development.<br>🎲 Fun fact: I love Kanye West.</br>📍 Location: Brasília, Brazil.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Kotlin<br>🎯 Goals: Be a reference in UX and Front-end development.<br>🎲 Fun fact: I love Kanye West.</br>📍 Location: Brasília, Brazil.</p>
 
 ###
 <a href="https://github.com/lfelipessilva/convoychat">
